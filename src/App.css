@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  align-items: center;
+}
+
+.app-container {
+  margin: 2% 30% 0% 30%;
+  background-color: #23252c;
+  align-items: center;
+}
