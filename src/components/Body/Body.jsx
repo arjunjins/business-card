@@ -9,6 +9,8 @@ const Body = () => {
         simple and automating daily tasks. I try to keep up with security and
         best practices, and I am always looking for new things to learn.
       </p>
+      <br />
+      <br />
       <h2>Interests</h2>
       <p>
         Food expert. Music scholar. Basketballer. Internet fanatic. Momo buff.
