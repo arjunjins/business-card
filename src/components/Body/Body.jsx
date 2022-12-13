@@ -11,8 +11,8 @@ const Body = () => {
       </p>
       <h2>Interests</h2>
       <p>
-        Food expert. Music scholar. Reader. Internet fanatic. Bacon buff.
-        Entrepreneur. Travel geek. Pop culture ninja. Coffee fanatic.
+        Food expert. Music scholar. Basketballer. Internet fanatic. Momo buff.
+        Entrepreneur. Travel geek. ML enthusiast. Photographer. Expert gamer.
       </p>
     </div>
   );
