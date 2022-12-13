@@ -6,7 +6,9 @@ import Footer from "../Footer/Footer";
 const Header = () => {
   return (
     <div className="header-container">
-      <img src={logo} alt="Profile Picture" className="image" />
+      <div>
+        <img src={logo} alt="Profile Picture" className="image" />
+      </div>
       <div className="header-body">
         <h1 id="main-title">Arjun J</h1>
         <h3 id="job-title">Frontend Developer</h3>
