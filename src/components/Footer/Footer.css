@@ -1,0 +1,14 @@
+.footer-container {
+  background: #161619;
+  border-bottom-left-radius: 14px;
+  border-bottom-right-radius: 14px;
+}
+
+.footer-main > li {
+  list-style-type: none;
+}
+.footer-main {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+}

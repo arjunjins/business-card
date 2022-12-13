@@ -7,8 +7,8 @@ import Github from "../../assets/GitHub Icon.png";
 
 const Footer = () => {
   return (
-    <div>
-      <ul>
+    <div className="footer-container">
+      <ul className="footer-main">
         <li>
           <a href="www.google.com">
             <img src={twitter} alt="" />
