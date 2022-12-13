@@ -1,11 +1,12 @@
 .footer-container {
   background: #161619;
-  border-bottom-left-radius: 14px;
-  border-bottom-right-radius: 14px;
+  border-bottom-left-radius: 18px;
+  border-bottom-right-radius: 18px;
 }
 
 .footer-main > li {
   list-style-type: none;
+  padding: 13px;
 }
 .footer-main {
   display: flex;
